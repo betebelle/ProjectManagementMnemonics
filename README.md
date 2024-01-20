@@ -127,7 +127,7 @@ This section has some ways to help remember the cell contents in the Initiation 
 
 ### PEMBOK 6 Process Group and Knowledge Area Mapping
 
-|  Knowledge Areas/Process Groups |  | Initiating | Planning | Executing | Managing & <br>Controlling | Closing |
+|  Knowledge Areas/Process Groups |  | Initiating | Planning | Executing | Monitoring & <br>Controlling | Closing |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  | 2 | 24 | 10 | 12 | 1 |
 |  |  | Do It! <br> I Can Start! | Plan^9 + DCDCD-SEDEDE-IPPP | Manage^5 + DADIC <br>"DAD Is Correct." | Monitor^4 + Control^6 + VP <br>MCCCCCMMCM | 1 |
