@@ -131,7 +131,7 @@ This section has some ways to help remember the cell contents in the Initiation 
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  | 2 | 24 | 10 | 12 | 1 |
 |  |  | Do It! <br> I Can Start! | Plan^9 + DCDCD-SEDEDE-IPPP | Manage^5 + DADIC <br>"DAD Is Correct." | Monitor^4 + Control^6 + VP <br>MCCCCCMMCM | 1 |
-| 4. Integration | 7 | 4.1 Develop Project Charter | 4.2 Plan | 4.3 Direct and Manage Project Work <br>4.4 Manage Project Knowledge | 4.5 Monitor and Control Project Work <br>4.6 Perform Integrative Change Control | 4.7 Close Project or Phase |
+| 4. Integration | 7 | 4.1 Develop Project Charter | 4.2 Develop Project Management Plan | 4.3 Direct and Manage Project Work <br>4.4 Manage Project Knowledge | 4.5 Monitor and Control Project Work <br>4.6 Perform Integrative Change Control | 4.7 Close Project or Phase |
 | 5. Scope | 6 |  | 5.1 Plan Scope Mgmt <br>5.2 Collect Requirements <br>5.3 Define Scope <br>5.4 Create WBS |  | 5.5 Validate Scope <br>5.6 Control Scope |  |
 | 6. Schedule | 6 |  | 6.1 Plan Schedule Mgmt <br>6.2 Define Activities <br>6.3 Sequence Activities <br>6.4 Estimate Activity Durations <br>6.5 Develop Schedule |  | 6.6 Control Schedule |  |
 | 7. Cost | 4 |  | 7.1 Plan Cost Mgmt <br>7.2 Estimate Costs <br>7.3 Determine Budget |  | 7.4 Control Costs |  |
