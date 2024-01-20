@@ -111,4 +111,25 @@ This section has some ways to help remember the cell contents in the Initiation 
 * PMP Exam Prep Simplified https://www.amazon.com/PMP-Exam-Prep-Simplified-Learning/dp/B08SBFTXQT/ref=sr_1_1?crid=2FD5DCXIOMYE0&keywords=pmp+exam+prep+simplified&qid=1686605563&sprefix=%2Caps%2C536&sr=8-1
 * University of Utah Continuing Education https://continue.utah.edu/proed/proj-mgt
 
+## Overview
 
+* PMBOK 6 https://vuthedudotorg.files.wordpress.com/2019/11/a-guide-to-the-pmbok-6e.pdf
+
+![image](https://github.com/cmcntsh/ProjectManagementMnemonics/assets/32034299/28d2c886-a521-49eb-bbbb-c2e1039eae72)
+
+### Before the Project
+
+### Process Group and Knowledge Area Mapping
+
+|  Knowledge Areas | Initiating | Planning | Executing | Managing & Controlling | Closing |
+| --- | --- | --- | --- | --- | --- |
+| Integration |  |  |  |  |  |
+| Scope |  |  |  |  |  |
+| Schedule |  |  |  |  |  |
+| Cost |  |  |  |  |  |
+| Quality |  |  |  |  |  |
+| Resource |  |  |  |  |  |
+| Communications |  |  |  |  |  |
+| Risk |  |  |  |  |  |
+| Procurement |  |  |  |  |  |
+| Stakeholder |  |  |  |  |  |
