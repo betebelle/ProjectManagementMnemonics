@@ -114,6 +114,7 @@ This section has some ways to help remember the cell contents in the Initiation 
 ## Overview
 
 * PMBOK 6 https://vuthedudotorg.files.wordpress.com/2019/11/a-guide-to-the-pmbok-6e.pdf
+* PMBOK 7 https://www.pmi.org/pmbok-guide-standards/foundational/pmbok
 
 ![image](https://github.com/cmcntsh/ProjectManagementMnemonics/assets/32034299/28d2c886-a521-49eb-bbbb-c2e1039eae72)
 
