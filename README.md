@@ -127,15 +127,16 @@ This section has some ways to help remember the cell contents in the Initiation 
 
 ### PEMBOK 6 Process Group and Knowledge Area Mapping
 
-|  Knowledge Areas | Initiating | Planning | Executing | Managing & <br>Controlling | Closing |
-| --- | --- | --- | --- | --- | --- |
-| 4. Integration | 4.1 Charter | 4.2 Plan | 4.3 Work <br>4.4 Knowledge | 4.5 Work <br>4.6 Change Control | 4.7 Close |
-| 5. Scope |  | 5.1 Plan Scope <br>5.2 Requirements <br>5.3 Define Scope <br>5.4 WBS |  | 5.5 Validate Scope <br>5.6 Control Scope |  |
-| 6. Schedule |  | 6.1 Plan Schedule <br>6.2 Define Activities <br>6.3 Sequence Activities <br>6.4 Estimate Activity Durations <br>6.5 Develop Schedule |  | 6.6 Control Schedule |  |
-| 7. Cost |  | 7.1 Plan Cost <br>7.2 Estimate Costs <br>7.3 Determine Budget |  | 7.4 Control Costs |  |
-| 8. Quality |  | 8.1 Plan Quality | 8.2 Manage Quality | 8.3 Control Quality |  |
-| 9. Resource |  | 9.1 Plan Resource <br>9.2 Estimate Activity Resources | 9.3 Acquire Resources <br>9.4 Develop Team <br>9.5 Manage Team | 9.6 Control Resources |  |
-| 10. Communications |  | 10.1 Plan Communications | 10.2 Manage Communications | 10.3 Monitor Communications |  |
-| 11. Risk |  | 11.1 Plan Risk Mgmt <br>11.2 Identify Risks <br>11.3 Qualitative Risk Analysis <br>11.4 Quantitative Risk Analysis <br>11.5 Plan Risk Responses | 11.6 Implement Risk Responses | 11.7 Monitor Risks |  |
-| 12. Procurement |  | 12.1 Plan Procurement | 12.2 Conduct Procurement | 12.3 Control Procurement |  |
-| 13. Stakeholder | 13.1 Identify Stakeholders | 13.2 Plan Stakeholder Engagement | 13.3 Manage Stakeholder Engagement | 13.4 Monitor Stakeholder Engagement |  |
+|  Knowledge Areas |  | Initiating | Planning | Executing | Managing & <br>Controlling | Closing |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | 2 | 24 | 10 | 12 | 1 |
+| 4. Integration | 7 | 4.1 Charter | 4.2 Plan | 4.3 Work <br>4.4 Knowledge | 4.5 Work <br>4.6 Change Control | 4.7 Close |
+| 5. Scope | 6 |  | 5.1 Plan Scope <br>5.2 Requirements <br>5.3 Define Scope <br>5.4 WBS |  | 5.5 Validate Scope <br>5.6 Control Scope |  |
+| 6. Schedule | 6 |  | 6.1 Plan Schedule <br>6.2 Define Activities <br>6.3 Sequence Activities <br>6.4 Estimate Activity Durations <br>6.5 Develop Schedule |  | 6.6 Control Schedule |  |
+| 7. Cost | 4 |  | 7.1 Plan Cost <br>7.2 Estimate Costs <br>7.3 Determine Budget |  | 7.4 Control Costs |  |
+| 8. Quality | 3 |  | 8.1 Plan Quality | 8.2 Manage Quality | 8.3 Control Quality |  |
+| 9. Resource | 6 |  | 9.1 Plan Resource <br>9.2 Estimate Activity Resources | 9.3 Acquire Resources <br>9.4 Develop Team <br>9.5 Manage Team | 9.6 Control Resources |  |
+| 10. Communications | 3 |  | 10.1 Plan Communications | 10.2 Manage Communications | 10.3 Monitor Communications |  |
+| 11. Risk | 7 |  | 11.1 Plan Risk Mgmt <br>11.2 Identify Risks <br>11.3 Qualitative Risk Analysis <br>11.4 Quantitative Risk Analysis <br>11.5 Plan Risk Responses | 11.6 Implement Risk Responses | 11.7 Monitor Risks |  |
+| 12. Procurement | 3 |  | 12.1 Plan Procurement | 12.2 Conduct Procurement | 12.3 Control Procurement |  |
+| 13. Stakeholder | 4 | 13.1 Identify Stakeholders | 13.2 Plan Stakeholder Engagement | 13.3 Manage Stakeholder Engagement | 13.4 Monitor Stakeholder Engagement |  |
