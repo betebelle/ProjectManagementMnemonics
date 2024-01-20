@@ -119,17 +119,17 @@ This section has some ways to help remember the cell contents in the Initiation 
 
 ### Before the Project
 
-### Process Group and Knowledge Area Mapping
+### PEMBOK 6 Process Group and Knowledge Area Mapping
 
 |  Knowledge Areas | Initiating | Planning | Executing | Managing & Controlling | Closing |
 | --- | --- | --- | --- | --- | --- |
-| Integration |  |  |  |  |  |
-| Scope |  |  |  |  |  |
-| Schedule |  |  |  |  |  |
-| Cost |  |  |  |  |  |
-| Quality |  |  |  |  |  |
-| Resource |  |  |  |  |  |
-| Communications |  |  |  |  |  |
-| Risk |  |  |  |  |  |
-| Procurement |  |  |  |  |  |
-| Stakeholder |  |  |  |  |  |
+| 4. Integration | 4.1 Charter | 4.2 Plan | 4.3 Work 4.4 Knowledge | 4.5 Work 4.6 Change Control | 4.7 Close |
+| 5. Scope |  |  |  |  |  |
+| 6. Schedule |  |  |  |  |  |
+| 7. Cost |  |  |  |  |  |
+| 8. Quality |  |  |  |  |  |
+| 9. Resource |  |  |  |  |  |
+| 10. Communications |  |  |  |  |  |
+| 11. Risk |  |  |  |  |  |
+| 12. Procurement |  |  |  |  |  |
+| 13. Stakeholder | 13. Identify Stakeholders |  |  |  |  |
