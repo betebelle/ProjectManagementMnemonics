@@ -121,9 +121,9 @@ This section has some ways to help remember the cell contents in the Initiation 
 
 ### PEMBOK 6 Process Group and Knowledge Area Mapping
 
-|  Knowledge Areas | Initiating | Planning | Executing | Managing & Controlling | Closing |
+|  Knowledge Areas | Initiating | Planning | Executing | Managing & <br>Controlling | Closing |
 | --- | --- | --- | --- | --- | --- |
-| 4. Integration | 4.1 Charter | 4.2 Plan | 4.3 Work 4.4 Knowledge | 4.5 Work 4.6 Change Control | 4.7 Close |
+| 4. Integration | 4.1 Charter | 4.2 Plan | 4.3 Work <br>4.4 Knowledge | 4.5 Work <br>4.6 Change Control | 4.7 Close |
 | 5. Scope |  |  |  |  |  |
 | 6. Schedule |  |  |  |  |  |
 | 7. Cost |  |  |  |  |  |
