@@ -123,6 +123,7 @@ This section has some ways to help remember the cell contents in the Initiation 
 * Needs Asssessment
   * [Payback Period Chart](https://github.com/cmcntsh/ProjectManagementMnemonics/blob/main/PMFiles/payback%20period%20chart.xls)
   * [Weighted Scoring Model](https://github.com/cmcntsh/ProjectManagementMnemonics/blob/main/PMFiles/weighted%20scoring%20model.xls)
+  * SWOT Analysis
 * Project Business Documents
   * Project business case
   * Project benefits management plan
