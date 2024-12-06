@@ -26,11 +26,13 @@ let questions = [
   },
     {
     numb: "1.3",
-    question: "A pigeon is monogamous.",
-    answer: "True",
+    question: "A pigeon is ...",
+    answer: "All of the above",
     options: [
-      "True",
-      "False"
+      "Intelligent",
+      "Monogamous",
+      "Capable", 
+      "All of the above"
     ],
     note: "Source: Truth!"
   },
@@ -64,7 +66,9 @@ let questions = [
   answer: "False",
   options: [
     "True",
-    "False"
+    "False", 
+    "Unknown", 
+    "Trick Question"
   ],
   note: "Source: Truth!"
 },
